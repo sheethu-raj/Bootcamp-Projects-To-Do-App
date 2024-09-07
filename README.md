@@ -4,7 +4,7 @@ This is a vibrant and fun to-do list app built using React. The app features an 
 
 Key features:
 
-Add tasks dynamically
-Colorful and responsive UI design
-Fun hover animations and interactive elements
-Built with React components for scalability and reusability
+- Add tasks dynamically
+- Colorful and responsive UI design
+- Fun hover animations and interactive elements
+- Built with React components for scalability and reusability
