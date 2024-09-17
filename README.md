@@ -9,3 +9,7 @@ Key features:
 - Colorful and responsive UI design
 - Fun hover animations and interactive elements
 - Built with React components for scalability and reusability
+
+To run the project,
+- Run `npm i` to install the necessary modules
+- Then run `npm start`
