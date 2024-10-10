@@ -13,3 +13,7 @@ Key features:
 To run the project,
 - Run `npm i` to install the necessary modules
 - Then run `npm start`
+
+Screenshot:
+
+![Screenshot 2024-10-11 010154](https://github.com/user-attachments/assets/df9872d8-7edb-4518-a7ea-000704894d19)
